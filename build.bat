@@ -1,0 +1,1 @@
+lib /nologo /out:xparse.lib 2base.obj 16base.obj
